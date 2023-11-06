@@ -1,0 +1,7 @@
+AliceBlue
+DodgerBlue1
+navy
+5
+20
+0.8
+40
